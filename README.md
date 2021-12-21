@@ -1,16 +1,24 @@
-### Hi there 👋
+<a href="https://github.com/moshenskyi/moshenskyi">
+  <img align="center" src="https://raw.githubusercontent.com/moshenskyi/moshenskyi/main/img/profile_pic.png"/>
+</a>
 
-<!--
-**moshenskyi/moshenskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello!
+My name is Nazarii Moshenskyi and I am an Android Engineer.
 
-Here are some ideas to get you started:
+## Github Stats
+<a href="https://github.com/moshenskyi/moshenskyi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moshenskyi&hide=contribs&show_icons=true"/>
+</a>
+<a href="https://github.com/moshenskyi/moshenskyi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moshenskyi&layout=compact"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-RxJava-informational?style=flat)
+![](https://img.shields.io/badge/Tools-Coroutines-informational?style=flat)
+![](https://img.shields.io/badge/Tools-GitHubActions-informational?style=flat)
