@@ -15,9 +15,9 @@
 <p align="left">
 <a href="https://dev.to/moshenskyi_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="moshenskyi_n" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nazarii-moshenskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazarii-moshenskyi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nazarii-moshenskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nazarii-moshenskyi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7805359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nazarii-moshenskyi" height="30" width="40" /></a>
 <a href="https://medium.com/@moshenskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moshenskyi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/moshenskyi_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moshenskyi_n" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@moshenskyi_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moshenskyi_n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
