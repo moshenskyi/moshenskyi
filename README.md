@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom Sequence Operators in Kotlin](https://moshenskyi.medium.com/custom-sequence-operators-in-kotlin-813685d2839d?source=rss-13704f0490d1------2)
 - [Rewriting Java I/O Streams with Kotlin delegates](https://moshenskyi.medium.com/rewriting-java-i-o-streams-with-kotlin-delegates-20a3f3e3c350?source=rss-13704f0490d1------2)
 - [How to undo the rebase [git reflog]](https://moshenskyi.medium.com/how-to-undo-the-rebase-git-reflog-8139c660f69f?source=rss-13704f0490d1------2)
 - [Speed up Android app debugging with lista](https://moshenskyi.medium.com/improve-debugging-android-apps-with-lista-77c829560b8e?source=rss-13704f0490d1------2)
 - [Network Inspection in Android Made Easy](https://moshenskyi.medium.com/android-network-inspector-d58e12a26d88?source=rss-13704f0490d1------2)
-- [Kotlin Under the Hood: Extension functions](https://moshenskyi.medium.com/kotlin-under-the-hood-extension-functions-1d61fabdf631?source=rss-13704f0490d1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
