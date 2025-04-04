@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Android, Kotlin, Jetpack Compose, App Architecture**
 
+***Don't miss my article*** - "Code review automation with Danger" - [GD Blog](https://www.griddynamics.com/blog/pull-request-automation-tips#what-should-a-pull-request-look-like)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Custom Sequence Operators in Kotlin](https://moshenskyi.medium.com/custom-sequence-operators-in-kotlin-813685d2839d?source=rss-13704f0490d1------2)
