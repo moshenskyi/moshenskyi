@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Keycloak for Android: The Foundations of Secure Authentication](https://moshenskyi.medium.com/keycloak-for-android-the-foundations-of-secure-authentication-bc6a45faa998?source=rss-13704f0490d1------2)
+- [Keycloak for Android: The Foundations of Secure Authentication](https://levelup.gitconnected.com/keycloak-for-android-the-foundations-of-secure-authentication-bc6a45faa998?source=rss-13704f0490d1------2)
 - [SDK Design 101: Redirect-based flows](https://moshenskyi.medium.com/sdk-design-101-redirect-based-flows-45638b9737b6?source=rss-13704f0490d1------2)
 - [Building a Sample-Accurate Metronome with AudioTrack in Android](https://moshenskyi.medium.com/building-a-sample-accurate-metronome-with-audiotrack-in-android-7da27ac7dae1?source=rss-13704f0490d1------2)
 - [Custom Sequence Operators in Kotlin](https://moshenskyi.medium.com/custom-sequence-operators-in-kotlin-813685d2839d?source=rss-13704f0490d1------2)
