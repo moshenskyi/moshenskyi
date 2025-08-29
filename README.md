@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazarii Moshenskyi</h1>
 <h3 align="center">Senior Android Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moshenskyi" alt="moshenskyi" /></a> </p>
-
 - 📝 I regularly write articles on [https://medium.com/@moshenskyi](https://medium.com/@moshenskyi)
 
 - 💬 Ask me about **Android, Kotlin, Jetpack Compose, App Architecture**
