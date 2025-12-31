@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [These 2 LoC improved the critical flow by 40%](https://levelup.gitconnected.com/these-2-loc-improved-the-critical-flow-by-40-d8329af0d0e9?source=rss-13704f0490d1------2)
 - [This bug had been silently killing the app for years](https://levelup.gitconnected.com/this-bug-had-been-silently-killing-the-app-for-years-35193068acbe?source=rss-13704f0490d1------2)
 - [Integrating Keycloak in Android with AppAuth: What You Really Need to Know](https://levelup.gitconnected.com/integrating-keycloak-in-android-with-appauth-what-you-really-need-to-know-59fb56f26432?source=rss-13704f0490d1------2)
 - [Keycloak for Android: The Configuration](https://levelup.gitconnected.com/keycloak-for-android-the-configuration-e1d3e569b4cf?source=rss-13704f0490d1------2)
 - [Keycloak for Android: The Foundations of Secure Authentication](https://levelup.gitconnected.com/keycloak-for-android-the-foundations-of-secure-authentication-bc6a45faa998?source=rss-13704f0490d1------2)
-- [SDK Design 101: Redirect-based flows](https://moshenskyi.medium.com/sdk-design-101-redirect-based-flows-45638b9737b6?source=rss-13704f0490d1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
